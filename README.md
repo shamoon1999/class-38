@@ -1,2 +1,2 @@
-# class-38
-based on car racing (game cam, marking player)
+# C38RV_SpeedRacer_StudentActivity
+Student Activity
